@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b3f021320f9313e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "devenv.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d05f7aee2313359d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "devenv.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old_notes/HumanCentricAI.md",
+                "file": "devenv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "old_notes/HumanCentricAI.md",
+                "file": "devenv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "old_notes/HumanCentricAI.md"
+                "file": "devenv.md"
               }
             }
           }
@@ -146,12 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1bca0b682b7b25c",
+  "active": "d05f7aee2313359d",
   "lastOpenFiles": [
+    "API.md",
+    "devenv.md",
+    "old_notes/HumanCentricAI.md",
+    "Untitled",
     "old_notes.md",
     "notes.md",
     "notes/user-stories.md",
-    "old_notes/HumanCentricAI.md",
     "notes/WIP/curator.md",
     "notes/WIP/navigator.md",
     "notes/WIP/js.md",
@@ -179,8 +207,6 @@
     "notes",
     "old_notes/AgentLabelling/ArtificialMinds/AiClassifiers.md",
     "old_notes/TheValuesProject.md",
-    "old_notes/WorkProject.md",
-    "cooperativeProjects.jpg.md",
     "About"
   ]
 }
