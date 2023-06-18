@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "a18ca6268295066f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d17f8a852675130",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0606701ff2cf49c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "old_notes/HumanCentricAI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba02d2173e84fe6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "73ae8d2daeacd59b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1bca0b682b7b25c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf43f370176a81d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8633da7155c71ec2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c5a5b58334792438",
+    "type": "split",
+    "children": [
+      {
+        "id": "1637e3d8df6731f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a937baaf0ad15ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "old_notes/HumanCentricAI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c3275cbb070c86f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "old_notes/HumanCentricAI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cdf573c1f0f7eef0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "169f7e2d2469e3d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "old_notes/HumanCentricAI.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b1bca0b682b7b25c",
+  "lastOpenFiles": [
+    "old_notes.md",
+    "notes.md",
+    "notes/user-stories.md",
+    "old_notes/HumanCentricAI.md",
+    "notes/WIP/curator.md",
+    "notes/WIP/navigator.md",
+    "notes/WIP/js.md",
+    "notes/WIP/bookmarks.md",
+    "notes/WIP/libnotes.md",
+    "notes/WIP",
+    "notes/socialfactors/socialfactors.md",
+    "notes/socialfactors/Trust.md",
+    "notes/socialfactors/work-activity.md",
+    "notes/socialfactors/personalOntology.md",
+    "notes/socialfactors/groups.md",
+    "notes/socialfactors",
+    "notes/app/objectives.md",
+    "notes/app/work.md",
+    "notes/app/localdb.md",
+    "notes/app/localagent.md",
+    "notes/app/verifiableCredentials.md",
+    "notes/app/ui.md",
+    "notes/app/Protocols.md",
+    "notes/app/bookmarks.md",
+    "notes/app",
+    "notes/images/202305_basic_demo.jpg",
+    "notes/images/2023-05-31_BlockDiagram_v2.png",
+    "notes/images",
+    "notes",
+    "old_notes/AgentLabelling/ArtificialMinds/AiClassifiers.md",
+    "old_notes/TheValuesProject.md",
+    "old_notes/WorkProject.md",
+    "cooperativeProjects.jpg.md",
+    "About"
+  ]
+}
