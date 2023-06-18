@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs.context.intent.eco/sitemap/sitemap-index.xml
+Host: https://docs.context.intent.eco
